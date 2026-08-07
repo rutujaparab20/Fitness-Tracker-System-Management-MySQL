@@ -162,8 +162,16 @@ The repository includes:
 
 **Rutuja Parab**
 
-🎓 B.E. Computer Engineering (2026)
+🎓 **B.E. Computer Engineering (2026)**
 
-📊 Aspiring Data Analyst | SQL | MySQL | Power BI | Python | Excel
+💼 **Aspiring Data Analyst | SQL | MySQL | Power BI | Python | Excel | Machine Learning**
+
+📧 **Email:** rutujasparab.20@gmail.com
+
+🐙 **GitHub:** https://github.com/rutujaparab20
+
+💼 **LinkedIn:** https://www.linkedin.com/in/rutuja-parab-814549282
 
 ---
+
+
